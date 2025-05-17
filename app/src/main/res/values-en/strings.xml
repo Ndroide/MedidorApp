@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_nueva_medicion">New measurement</string>
+    <string name="label_valor_medidor">Meter value</string>
+    <string name="label_tipo">Type</string>
+    <string name="label_fecha">Date</string>
+    <string name="label_valor">Value</string>
+    <string name="btn_guardar">Save</string>
+    <string name="snackbar_medicion_guardada">Measurement saved!</string>
+    <string name="app_name">MeterApp</string>
+    <string name="fab_agregar">Add</string>
+</resources>

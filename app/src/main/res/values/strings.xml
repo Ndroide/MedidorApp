@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_nueva_medicion">Nueva medición</string>
+    <string name="label_valor_medidor">Valor del medidor</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="label_valor">Valor</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="snackbar_medicion_guardada">¡Medición registrada!</string>
+    <string name="app_name">MedidorApp</string>
+    <string name="fab_agregar">Agregar</string>
+</resources>
