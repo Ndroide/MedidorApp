@@ -43,7 +43,6 @@ fun ListaMedicionesScreen(
         }
     ) { innerPadding ->
 
-        // ✅ Ejecutar efecto dentro del contexto composable, usando texto preextraído
         if (mostrarConfirmacion) {
             LaunchedEffect(Unit) {
                 snackbarHostState.showSnackbar(
